@@ -16,10 +16,10 @@
       "devserver_arg": "gatari.pw"
     },
     {
-      "display_name": "Kurikku",
-      "display_url": "kurikku.pw",
-      "frontend_url": "https://kurikku.pw",
-      "devserver_arg": "kurikku.pw"
+      "display_name": "MKOsu",
+      "display_url": "https://osu.wejust.rest",
+      "frontend_url": "https://osu.wejust.rest",
+      "devserver_arg": "osu.wejust.rest"
     },
     {
       "display_name": "Akatsuki",
@@ -27,35 +27,5 @@
       "frontend_url": "https://akatsuki.gg",
       "devserver_arg": "akatsuki.gg"
     },
-    {
-      "display_name": "EZPPFarm",
-      "display_url": "ez-pp.farm",
-      "frontend_url": "https://ez-pp.farm",
-      "devserver_arg": "ez-pp.farm"
-    },
-    {
-      "display_name": "Ripple",
-      "display_url": "ripple.moe",
-      "frontend_url": "https://ripple.moe",
-      "devserver_arg": "ripple.moe"
-    },
-    {
-      "display_name": "RealistikOsu",
-      "display_url": "ussr.pl",
-      "frontend_url": "https://ussr.pl",
-      "devserver_arg": "ussr.pl"
-    },
-    {
-      "display_name": "Horizon",
-      "display_url": "lemres.de",
-      "frontend_url": "https://lemres.de",
-      "devserver_arg": "lemres.de"
-    },
-    {
-      "display_name": "Sakuru",
-      "display_url": "sakuru.pw",
-      "frontend_url": "https://sakuru.pw",
-      "devserver_arg": "sakuru.pw"
-    }
   ]
 }
