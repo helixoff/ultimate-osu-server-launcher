@@ -17,7 +17,7 @@
     },
     {
       "display_name": "MKOsu",
-      "display_url": "https://osu.wejust.rest",
+      "display_url": "osu.wejust.rest",
       "frontend_url": "https://osu.wejust.rest",
       "devserver_arg": "osu.wejust.rest"
     },
