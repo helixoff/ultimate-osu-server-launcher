@@ -40,7 +40,7 @@ namespace UltimateOsuServerLauncher.Models
         {
             ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
             var wc = new WebClient();
-            var str = wc.DownloadString("https://raw.githubusercontent.com/Airkek/ultimate-osu-server-launcher/main/default.json");
+            var str = wc.DownloadString("https://raw.githubusercontent.com/helixoff/ultimate-osu-server-launcher/main/default.json");
 
             return JsonConvert.DeserializeObject<Config>(str);
         }
