@@ -45,8 +45,8 @@ namespace UltimateOsuServerLauncher.Models
             return JsonConvert.DeserializeObject<Config>(str);
         }
 
-        public void Save() => File.WriteAllText(FileName, JsonConvert.SerializeObject(this, Formatting.Indented));
-
+        public void Save() => File.WriteAllText(FileName, JsonConvert.SerializeObject(this, Newtonsoft.Json.Formatting.Indented));
+        
         public static Config Read()
         {
             Config cfg;
